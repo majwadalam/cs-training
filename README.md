@@ -4,7 +4,7 @@ This course introduces first-semester students to programming fundamentals using
 
 ---
 
-## **Week 1: Introduction to Programming & Python**
+## **Lesson 1: Introduction to Programming & Python**
 
 **Learning Objectives:**
 
@@ -26,7 +26,7 @@ This course introduces first-semester students to programming fundamentals using
 
 ---
 
-## **Week 2: Variables and Data Types**
+## **Lesson 2: Variables and Data Types**
 
 **Learning Objectives:**
 
@@ -48,7 +48,7 @@ This course introduces first-semester students to programming fundamentals using
 
 ---
 
-## **Week 3: Getting User Input**
+## **Lesson 3: Getting User Input**
 
 **Learning Objectives:**
 
@@ -68,7 +68,7 @@ This course introduces first-semester students to programming fundamentals using
 
 ---
 
-## **Week 4: Conditional Statements (if, elif, else)**
+## **Lesson 4: Conditional Statements (if, elif, else)**
 
 **Learning Objectives:**
 
@@ -89,7 +89,7 @@ This course introduces first-semester students to programming fundamentals using
 
 ---
 
-## **Week 5: Loops - While Loops**
+## **Lesson 5: Loops - While Loops**
 
 **Learning Objectives:**
 
@@ -111,7 +111,7 @@ This course introduces first-semester students to programming fundamentals using
 
 ---
 
-## **Week 6: Loops - For Loops and Range**
+## **Lesson 6: Loops - For Loops and Range**
 
 **Learning Objectives:**
 
@@ -132,7 +132,7 @@ This course introduces first-semester students to programming fundamentals using
 
 ---
 
-## **Week 7: Strings and String Methods**
+## **Lesson 7: Strings and String Methods**
 
 **Learning Objectives:**
 
@@ -153,7 +153,7 @@ This course introduces first-semester students to programming fundamentals using
 
 ---
 
-## **Week 8: Lists - Introduction and Basic Operations**
+## **Lesson 8: Lists - Introduction and Basic Operations**
 
 **Learning Objectives:**
 
@@ -175,7 +175,7 @@ This course introduces first-semester students to programming fundamentals using
 
 ---
 
-## **Week 9: Lists - Advanced Operations and List Comprehensions**
+## **Lesson 9: Lists - Advanced Operations and List Comprehensions**
 
 **Learning Objectives:**
 
@@ -194,7 +194,7 @@ This course introduces first-semester students to programming fundamentals using
 
 ---
 
-## **Week 10: Functions - Basics**
+## **Lesson 10: Functions - Basics**
 
 **Learning Objectives:**
 
@@ -216,7 +216,7 @@ This course introduces first-semester students to programming fundamentals using
 
 ---
 
-## **Week 11: Functions - Advanced and File Handling**
+## **Lesson 11: Functions - Advanced and File Handling**
 
 **Learning Objectives:**
 
@@ -238,7 +238,7 @@ This course introduces first-semester students to programming fundamentals using
 
 ---
 
-## **Week 12: Final Project and Review**
+## **Lesson 12: Final Project and Review**
 
 **Learning Objectives:**
 
@@ -269,7 +269,7 @@ This course introduces first-semester students to programming fundamentals using
 
 - Computer with Python 3.x installed
 - Text editor or IDLE
-- Course handouts and examples (provided weekly)
+- Course handouts and examples (provided Lessonly)
 
 ## **Success Tips for Students:**
 
